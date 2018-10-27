@@ -1,4 +1,5 @@
-# AngularUnitTestingBasics
+# Angular Unit Testing Basics
+ This project has example code for writing basic unit testcases for an angular project.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
